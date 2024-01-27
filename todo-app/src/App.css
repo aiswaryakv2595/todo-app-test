@@ -1,0 +1,17 @@
+body{
+  font-size: 18px;
+}
+header{
+  width: 100vh;
+}
+.todos{
+  color: black;
+}
+#list-item{
+  color: black;
+  text-decoration: line-through;
+  opacity: 0.3;
+}
+.icons{
+  cursor: pointer;
+}
